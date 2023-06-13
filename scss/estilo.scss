@@ -1,0 +1,34 @@
+@import "var";
+@import "1_pag";
+@import "2_pag";
+@import "3_pag";
+@import "4_pag";
+
+*{margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    
+ body {background-color: $bgc;}
+   
+
+        h1{padding: 3rem; 
+            padding-bottom: 0%;
+            font-family: $font;
+            margin: 1rem;
+            text-align: left;
+            .azul{ color:$esmeralda;}
+            .rosa{color: $rosita;}    
+        }
+        
+            h5{padding: 3rem; 
+                padding-top: 0%;
+                margin: 1rem;
+                text-align: left;
+            text-align: justify;}
+            
+            h5{
+                a{
+                    text-decoration: none;
+                }
+            }

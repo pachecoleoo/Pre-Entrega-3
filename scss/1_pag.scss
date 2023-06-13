@@ -1,0 +1,21 @@
+@import "var";
+
+*{margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    
+h2{text-align:left;
+    padding: 2rem;
+    margin: 1rem;
+    font-family: $font;
+    .flecha{color: $esmeralda; 
+        width: 70px; 
+        height: 3rem;}
+    }
+
+    .parrafo{padding: 3rem;
+        text-align: justify;
+        line-height: 35px;
+        font-size: 1.2rem;
+        text-indent: 25px;}
