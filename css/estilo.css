@@ -25,13 +25,22 @@ h2 {
   padding: 0;
   box-sizing: border-box; }
 
-main h1 {
+h2 {
+  text-align: left;
+  padding: 2rem;
+  margin: 1rem;
   font-family: "Readex Pro", sans-serif; }
+
+Form {
+  padding: 3rem; }
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box; }
+
+.cartitas {
+  padding: 2rem; }
 
 * {
   margin: 0;
